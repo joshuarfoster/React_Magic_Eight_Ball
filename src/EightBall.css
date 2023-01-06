@@ -1,0 +1,12 @@
+.EightBall {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%
+  }
+
+.EightBallMsg {
+    color:azure
+}
